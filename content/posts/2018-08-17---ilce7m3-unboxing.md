@@ -1,0 +1,54 @@
+---
+template: post
+title: α7III購入しました
+slug: ilce7m3-unboxing
+draft: false
+date: 2018-08-17T00:00:00+09:00
+description: "更新が空きましたがα7III購入しました。"
+category: camera
+tags:
+  - camera
+  - α7 III
+---
+更新が空きましたがα7iii購入しました。
+
+量販店やネット通販でも売っていますが、ソニーストアなら株主優待券の15%OFFが使えます株主優待券の入手方法については調べてくださいね。
+
+## 購入の記録
+ - 8月3日AM：ソニーストアにて購入。この時点で「入荷次第出荷」のステータス。
+ - 8月8日：ステータスが出荷準備中（8月１０日出荷予定）に変わる
+ - 8月10日：出荷連絡。佐川急便で注文したので、数時間して追跡が可能となる。
+ - 8月11日：到着
+
+ずっと品薄状態が続いていたものの、約1週間くらいで入手できるくらいにはなっているようです。
+
+## 開封の儀
+届いた状態。SONYのロゴが眩しいですね。
+
+![梱包箱](https://lh3.googleusercontent.com/-ItWoX0NswUZuVrIfsuqw30dxL0eby7frm6NE7ubhD_nyNvXt3WrX3XlObG7rynY8i0gw_Uyo24cyF4ye0fi1OAUuv-W5zEgGrbhCXNrjPC9zHpcBTj3zTvjS8DTcpFH8ga-epgQc9aP1IIobtUGcudeQoeS_0V4UAt9eFkREkJS0yN1HkABwtWr55Le1fhJFvoWg0VwCUj4Dql-Lumqnczf-Q4feWZrZb767ixXEjnMdTjWxmzKRcuMTH_7AmXc_USoH4Kk3EhoOGKKE5xgZP-O0zQUuCoNwkdobzVo5GrdTIizmQ4lNcnNecQMnWTFB8TdDFhTR3XgCD157j2DD6fl-2PJYR3O_vRhjeqbnV8toBL0tyYWbjOZ6OkC61LUIO-KRfMf49-fJGvssAWYo8sVof2j6gFg4v9UkugBVw5xZNaTvl8ATbnfZ-vU0SdGBL-1sy3L6vnsx18DVtPQ8vOI99QlPwwmRoKr79Y4UXB9zveiv8td8LLEcJdz4hcGLSe_HZ-xkHw2mrVg-oW8YzzPPlaKJjHXK5W967m5AIBzLYKkGtq5cMU0XFcmOraYoW-xqWxskV4SvesvLLWJ27Y2uYdCdN_ZhhgixEOF=w1804-h1352-no)
+
+
+内容物ストラップを写し忘れましたね。いろんなところで言われていることですが、充電器が標準ではついてないので、バッテリーをACで充電したい人はベット購入する必要があります。わたしはUSB Type-Cで充電するつもりなので購入はしませんでした。
+
+![内容物](https://lh3.googleusercontent.com/DPHcqnyD0OMnho_sw-9zr_blXMR6yCi30TyN28LwyWL3oYZD7LOmYBOpAGq6VWM9OUfngXwjQ9b-iva-P8OcYl2ZFKo4fnZmlC4iqzU2UIE7Z2dGRfaWC1tzr2eVSFktadmBc3nKUfcR16WamZWZ1qoGIRdU78mf4nJio9Qbo4OfGZr9isZ5Z6aa9lUIA3CZYVzc465hcya-sP0s6KqdkAC1UidJ6IlOTr-r4sgY-HKNgyMqyubddF4Uao4A3uXO7W1iTmx1FO-_8C9vLOt7d3Nk5744htirrqJ3AGnlnDVuSj8L0baqDLpRXgXqvttjxqf1uepcbjEgMofiv9WLWGHXhNA32dfhKfDjV7QvkJqdh8b02758LXfrVwyPScc6251M8TZTkHLY1CdQMtI48phOdNWuJLe5HdnwKLyMS7_-BrKBwtm3RU6lVlYuq6VLEr2mb7RDGWlyRcfDwRIDEJj-87BorzN2vDN6qyhok80_j0kF4oJx_xGbYVPpzHhXxA3iN58363kW3MguEvQ2k6u8i75zAsE8-z8y8hrGfIzLJavEF0IxMHbFHnwAEKOIv6chPzveMSp_vXIkiT004jeUFjAhCW-RgRjfp0vAypYMbUHW6kHF57kKjy36vSeISvvT3WYA4oxZgsNvrQto8r79Qtor4zNb3w=d)
+
+レンズとストラップをつけた写真。レンズとストラップについては改めて。
+
+![近影](https://lh3.googleusercontent.com/0_JFo7BEOesRYz6LxDn6nesIlRk5xSwy-KZ42laVBu_5zEKbA-x54TsQgylzObjsgwQhsn6AZhdoM_IJkL3TYnl1h1SymPBHbDY350oW7S3HsrwBkvXwRoCuRgZiIEK2Mm5Zy_iJPlAHzZky_c__kCUasIMZoRNVBgeL5GQ1OjOATUIwZiXgFVkHZVcb0YR3GgowKyjMkiJAUzGiNd1ALr8Qpp5X8un8hsE5N3TmjdVaV-hqsIwBOcSH6KSzyv4DRKHqiJkb2AB58exWaFhUfwSkgAC3SPVXiaadp4bzzAQRqCjQ43Ztsdi4QO6rRfOO-XsgKdbkATJXQr23YQ-Mp1iqYASoxWUEwORfszQHeMQAOPIJSJ_RFM6b7vxe5A1YIDChCxB0atmsvlLxZVDJcNoblqOl4doErJcco8kDqLlneQmel3HHowRqz8suaXQdl-oXIqUrOP5r8kpuyuDjSqa3IqXsXulPdVe9iE5PDduMrkVIGkDf72Kf0hwKIXUQlhn6tviQ4yOsAz5xF7TY6G1F-Irs1xeU_ydRfv_fJOft2FFcj3e2bc4nVbKQKN_f0fOoZlZci_RttGeL7YL-zgRcnYMkR1DejhqcUGDinF8HzhfXrBQ4H5cJABW4Z0n7i4Mv1uz4e7UwPFE4ZXj33t3XC3IDFSHWxw=w721-h541-no)
+
+## 早速作例
+
+とりあえずぶらっと撮影。若干Lightroomでいじっています。レンズは35mm単焦点の「SEL35F28Z」。空の階調もなめらかだし、解像度も高いですね。さすがはフルサイズとツァイスレンズといったところでしょうか。
+
+`oembed: https://www.flickr.com/photos/106578728@N06/43981737942`
+
+絞り開放F2.8での撮影。周辺に行くほどボケの形が真円からラグビーボール状になるようです。
+
+`oembed: https://www.flickr.com/photos/106578728@N06/43981737682`
+
+もう一枚
+
+`oembed: https://www.flickr.com/photos/106578728@N06/43981739202`
+
+## まとめ
+さっくり撮ってみましたが、さすがに高価なカメラだけあって仕上がりは良いですね。これからいろいろ撮影していこうかと思います。

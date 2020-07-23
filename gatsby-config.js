@@ -123,6 +123,26 @@ module.exports = {
           },
           'gatsby-remark-autolink-headers',
           {
+            resolve: `@raae/gatsby-remark-oembed`,
+            options: {
+              // usePrefix defaults to false
+              // usePrefix: true is the same as ["oembed"]
+              usePrefix: true,
+              providers: {
+                include: [
+                  'Twitter',
+                  'Flickr',
+                  'YouTube',
+                  'Instagram',
+                ],
+                // Important to exclude providers
+                // that adds js to the page.
+                // If you do not need them.
+                exclude: ["Reddit"]
+              }
+            }
+          },
+          {
             resolve: `gatsby-remark-prismjs`,
             options: {
               classPrefix: "language-",

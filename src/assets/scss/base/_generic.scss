@@ -179,6 +179,20 @@ figcaption {
   font-size: 0.7em;
 }
 
+table {
+  border-collapse: collapse;
+  border: 1px solid #CCC;
+}
+ 
+th, td {
+  padding: 5px 10px;
+  border: 1px solid #CCC;
+}
+ 
+th {
+  background: #EEE;
+}
+
 @include breakpoint-sm {
   figure.float-left,
   figure.float-right {

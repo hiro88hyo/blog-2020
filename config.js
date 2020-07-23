@@ -9,7 +9,7 @@ module.exports = {
   disqusShortname: 'imagesensor',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-119667850-1',
-  useKatex: false,
+  useKatex: true,
   menu: [
     {
       label: 'Articles',
@@ -25,19 +25,19 @@ module.exports = {
     } */
   ],
   author: {
-    name: 'John Doe',
+    name: 'Hiroyuki',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'カメラ沼とか技術系とか',
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: '',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
