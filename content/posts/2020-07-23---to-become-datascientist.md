@@ -3,7 +3,7 @@ template: post
 title: データサイエンティストになれるかな
 slug: to-become-datascientist
 draft: false
-date: 2020-07-23T05:19:52.919Z
+date: 2020-02-08T13:56:52.919Z
 description: >-
   自己紹介も兼ねた駄文から始めてみようと思う。
 
