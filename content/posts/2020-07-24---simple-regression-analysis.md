@@ -105,7 +105,7 @@ B:  152.1334841628967
 ```
 実はnp.cov[0][0]はxの分散なので計算する必要は無いのだが理解のために上記のようにしている。ここで求めた直線をさきほどの散布図にプロットしてみる。
 
-```python
+```python{numberLines: true}
 plt.scatter(df['bmi'], diabetes.target)
 plt.plot(df['bmi'], A*df['bmi']+B, color='red')
 ```
