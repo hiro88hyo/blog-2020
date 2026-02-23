@@ -7,6 +7,7 @@ module.exports = {
   pathPrefix: siteConfig.pathPrefix,
   siteMetadata: {
     url: siteConfig.url,
+    siteUrl: siteConfig.url,
     title: siteConfig.title,
     subtitle: siteConfig.subtitle,
     copyright: siteConfig.copyright,
@@ -72,7 +73,7 @@ module.exports = {
               {
                 allMarkdownRemark(
                   limit: 1000,
-                  sort: { order: DESC, fields: [frontmatter___date] },
+                  sort: { frontmatter: { date: DESC } },
                   filter: { frontmatter: { template: { eq: "post" }, draft: { ne: true } } }
                 ) {
                   edges {
@@ -102,7 +103,6 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
-          'gatsby-remark-relative-images',
           {
             resolve: 'gatsby-remark-katex',
             options: {
@@ -123,26 +123,6 @@ module.exports = {
           },
           'gatsby-remark-autolink-headers',
           {
-            resolve: `@raae/gatsby-remark-oembed`,
-            options: {
-              // usePrefix defaults to false
-              // usePrefix: true is the same as ["oembed"]
-              usePrefix: true,
-              providers: {
-                include: [
-                  'Twitter',
-                  'Flickr',
-                  'YouTube',
-                  'Instagram',
-                ],
-                // Important to exclude providers
-                // that adds js to the page.
-                // If you do not need them.
-                exclude: ["Reddit"]
-              }
-            }
-          },
-          {
             resolve: `gatsby-remark-prismjs`,
             options: {
               classPrefix: "language-",
@@ -162,12 +142,6 @@ module.exports = {
     'gatsby-plugin-sharp',
     'gatsby-plugin-netlify',
     {
-      resolve: 'gatsby-plugin-netlify-cms',
-      options: {
-        modulePath: `${__dirname}/src/cms/index.js`,
-      }
-    },
-    {
       resolve: 'gatsby-plugin-google-gtag',
       options: {
         trackingIds: [siteConfig.googleAnalyticsId],
@@ -179,32 +153,7 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-sitemap',
       options: {
-        query: `
-          {
-            site {
-              siteMetadata {
-                siteUrl: url
-              }
-            }
-            allSitePage(
-              filter: {
-                path: { regex: "/^(?!/404/|/404.html|/dev-404-page/)/" }
-              }
-            ) {
-              edges {
-                node {
-                  path
-                }
-              }
-            }
-          }
-        `,
-        output: '/sitemap.xml',
-        serialize: ({ site, allSitePage }) => allSitePage.edges.map((edge) => ({
-          url: site.siteMetadata.siteUrl + edge.node.path,
-          changefreq: 'daily',
-          priority: 0.7
-        }))
+        output: '/'
       }
     },
     {
@@ -227,11 +176,11 @@ module.exports = {
       options: {
         postCssPlugins: [...postCssPlugins],
         cssLoaderOptions: {
-          camelCase: false,
-        }
+          modules: {
+            namedExport: false,
+          },
+        },
       }
     },
-    'gatsby-plugin-flow',
-    'gatsby-plugin-optimize-svgs',
   ]
 };
